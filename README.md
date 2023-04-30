@@ -2,8 +2,10 @@
 
 
 I’m currently learning through the Command Shift Bootcamp (March 23 cohort): CLI, Git, HTML, CSS, JavaScript and more. I also have experience with Python and Java.
+<br />
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/losborne/)
+</br>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
@@ -19,5 +21,3 @@ I’m currently learning through the Command Shift Bootcamp (March 23 cohort): C
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" /></code>
           
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LouiseOsborne&layout=compact"/>
