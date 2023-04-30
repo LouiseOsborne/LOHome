@@ -1,7 +1,6 @@
-### Hi there, my name is Louise and I'm an aspiring software engineer  👋
+### 👋 Hi I'm Louise, an aspiring software engineer!  
 
-
-I’m currently learning through the Command Shift Bootcamp (March 23 cohort): CLI, Git, HTML, CSS, JavaScript and more. I also have experience with Python and Java.
+I'm an experienced teacher making a career change into software engineering. I’m currently on the Command Shift Bootcamp (March 23 cohort) and I'm also studying BSc Computing and IT (Computer Science) with The Open University.
 <br />
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/losborne/)
