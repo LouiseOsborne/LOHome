@@ -6,3 +6,4 @@ I’m currently learning through the Command Shift Bootcamp (March 23 cohort): C
 📫 How to reach me: https://www.linkedin.com/in/losborne/ 
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LouiseOsborne&layout=compact"/>
