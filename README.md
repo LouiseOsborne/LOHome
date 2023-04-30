@@ -3,6 +3,7 @@
 I'm an experienced teacher making a career change into software engineering. I’m currently on the Command Shift Bootcamp (March 23 cohort) and I'm also studying BSc Computing and IT (Computer Science) with The Open University.
 <br />
 **Contact Me**
+<br />
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/losborne/)
 </br>
 **Technical Skills**
