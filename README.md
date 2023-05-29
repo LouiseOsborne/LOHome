@@ -25,3 +25,6 @@ I'm an experienced teacher making a career change into software engineering. Iâ€
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" /></code>
           
+[![Louise's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouiseOsborne)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouiseOsborne)](https://github.com/anuraghazra/github-readme-stats)
