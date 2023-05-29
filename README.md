@@ -8,6 +8,9 @@ I'm a teacher making a career change into software engineering. I’m currently 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/losborne/)
 
 
+**Top Languages**
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouiseOsborne)](https://github.com/anuraghazra/github-readme-stats)
 
 **Technical Skills**
 
@@ -24,7 +27,3 @@ I'm a teacher making a career change into software engineering. I’m currently 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" /></code>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouiseOsborne)](https://github.com/anuraghazra/github-readme-stats)
