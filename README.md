@@ -1,7 +1,4 @@
-### 👋 Hi I'm Louise, an aspiring software engineer!  
-
-I'm making a career change into software engineering. I’m currently on the Command Shift Bootcamp (March 23 cohort) and I'm also studying BSc Computing and IT (Computer Science) with The Open University.
-<br />
+### 👋 Hi I'm Louise
 
 **Contact Me** 
 <br />
