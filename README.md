@@ -20,3 +20,5 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LouiseOsborne&layout=compact"/>
