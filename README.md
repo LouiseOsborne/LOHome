@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Louise</h1>
 <h3 align="center">A Junior Software Developer in Bournemouth</h3>
 
-- 🔭 I’m currently working on **Surreal Estate** - A property app
+- 🔭 I’m currently working on **Yogipedia** - A Yoga app
 
 - 🌱 I’m currently learning **Full-Stack Web Development with Command Shift**
 
